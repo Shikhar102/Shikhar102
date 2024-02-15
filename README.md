@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I'm currently  **Embracing a journey of skill cultivation in Web Development, I am currently honing my expertise in technologies like React and JavaScript. Simultaneously, I am delving into the intricate realm of backend frameworks, aiming to unlock new dimensions in my development capabilities. 🚀 #ContinuousLearning #WebDevJourney**
+- 🌱 I'm   **Actively mastering Web Development, I refine skills in React and JavaScript while exploring backend frameworks to broaden my development capabilities. 🚀 #ContinuousLearning #WebDevJourney**
 
 
 - 💬 Mail to reach me **shikhargupta8080@gmail.com**
